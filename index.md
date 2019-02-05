@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-a small CDN for my MIS-141 class.
+A tiny CDN to host some files for my MIS-141 class.
